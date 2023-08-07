@@ -29,7 +29,7 @@ public class EmpleadoControllers {
 
  //@Autowired
  private RestTemplate restTemplate;
- private String API = "http://localhost:8080/spia-test/aguadulce";
+ private String API = "http://localhost:8080/";
 
 
 @GetMapping("/employees")
